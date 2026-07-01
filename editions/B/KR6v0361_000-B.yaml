@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0361/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 貢噶上師恒河大手印直講
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0062.xml
+    old_id: B10n0062
+hash: sha256:8a7a700d0e8b40a256bab3a9573cc555f1cdfbf239c7e8064317fb2272378da8

@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6v0361/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0361/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 貢噶上師恒河大手印直講
+  identifiers:
+    krp: KR6v0361
+    cbeta: B10n0062
+    cbeta_old_id: B10n0062
+    authorityid: CA0006146
+    json_key: B0062
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0062.xml
+    old_id: B10n0062
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0361_000-B.yaml, hash: 'sha256:8a7a700d0e8b40a256bab3a9573cc555f1cdfbf239c7e8064317fb2272378da8'}
+  - {seq: 1, filename: KR6v0361_001-B.yaml, hash: 'sha256:cc45c98b72a1a6d8c260047f56efe8f3a17aab4deb3a1f631caf3784c4354214'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0361_000-B.markers.yaml, hash: 'sha256:82c8869eec0807c02ef57373c7ed5bbae5a43c9adb5d1dc002e93d65a88f235f'}
+  - {seq: 1, role: markers, filename: assets/KR6v0361_001-B.markers.yaml, hash: 'sha256:7d833fb0ed1ab25b732af79c62b570b701624128cac2ad9e103cc0e5c3534fe9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0361_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 8428
+  label: 貢噶上師恒河大手印直講
+  type: juan
+  level: 1
+hash: sha256:4fc9cedbcbba237616093a31edfb55ee84715307f1bf7b116fdef2ceffae2306
