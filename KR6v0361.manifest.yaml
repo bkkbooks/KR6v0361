@@ -19,9 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0361_000.yaml, hash: 'sha256:8a7a700d0e8b40a256bab3a9573cc555f1cdfbf239c7e8064317fb2272378da8'}
-  - {seq: 1, filename: KR6v0361_001.yaml, hash: 'sha256:5905886d35befd7e35da97868799a29bd9903aeceb1caa33e0452fc9f1d8c393'}
+  - {seq: 1, filename: KR6v0361_001.yaml, hash: 'sha256:cc45c98b72a1a6d8c260047f56efe8f3a17aab4deb3a1f631caf3784c4354214'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0361_001.markers.yaml, hash: 'sha256:9e4f3c4348fb4282a5e98d2fc1654b7b6c3e5955a0c44369edfbdb74551bc09c'}
+  - {seq: 0, role: markers, filename: assets/KR6v0361_000.markers.yaml, hash: 'sha256:f9b27a30e233b80c46da598173a20049b2128dca498d9ecde3d2cc2bc6d73544'}
+  - {seq: 1, role: markers, filename: assets/KR6v0361_001.markers.yaml, hash: 'sha256:3dc87095af563b02d3b4e6c47a2b3c107d93d6809997bddbaeca7aed57c0bbf6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -33,7 +34,4 @@ table_of_contents:
   label: 貢噶上師恒河大手印直講
   type: juan
   level: 1
-hash: sha256:d2fd815eba6b70c7f5ddf9ddea512cda0f349affee546a7eb6a44048976a41fe
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:71993680bfdff21756838010bff28233fa0ae2bb26b7d83e2d01dfa730cba676
